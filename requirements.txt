@@ -33,7 +33,7 @@ SQLAlchemy==1.4.47
 sympy==1.11.1
 tenacity==8.2.2
 tokenizers==0.13.3
-torch==2.0.0
+torch==2.2.0
 tqdm==4.65.0
 transformers==4.28.1
 typing-inspect==0.8.0
